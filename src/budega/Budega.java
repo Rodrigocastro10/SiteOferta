@@ -28,6 +28,7 @@ public class Budega {
         System.out.println("Agora a idade do rodrigo é "+rodrigo.idade);
         System.out.println ("A idade do clone é  "+cloneRodrigo.idade);
         System.out.println ("A idade do cl é  "+cloneRodrigo.idade);
+        System.out.println ("Teucúúú");
         
     }
 
